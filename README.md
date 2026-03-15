@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 
 
-Contato:
+📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:fernandovbaltieri.profissional@gmail.com)
 

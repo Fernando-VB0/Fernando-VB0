@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá, me chamo Fernando! 
 
-<!--
-**Fernando-VB0/Fernando-VB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou Estudante de Tecnologia da Informação;
 
-Here are some ideas to get you started:
+🚀 Estou aprendendo desenvolvimento web e programação;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudo, na programação:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+Contato:
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:fernandovbaltieri.profissional@gmail.com)
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando&show_icons=true&theme=tokyonight)
+
+Sempre buscando aprender mais na área de tecnologia! ⭐
